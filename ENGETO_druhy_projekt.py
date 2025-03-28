@@ -1,5 +1,5 @@
 """
-projekt_2.py: first project for Engeto Online Python Academy
+projekt_2.py: druhý projekt do Engeto Online Python Akademie
 
 author: Daniel Vrána
 email: deny.vrana@gmail.com
